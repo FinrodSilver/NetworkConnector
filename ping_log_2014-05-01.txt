@@ -1,0 +1,13 @@
+
+2014-05-01 21:30:54.1
+
+Pinging WWW.GOOGLE.COM [74.125.225.51] with 32 bytes of data:
+Reply from 74.125.225.51: bytes=32 time=88ms TTL=54
+Reply from 74.125.225.51: bytes=32 time=80ms TTL=54
+Reply from 74.125.225.51: bytes=32 time=85ms TTL=54
+Reply from 74.125.225.51: bytes=32 time=84ms TTL=54
+
+Ping statistics for 74.125.225.51:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 80ms, Maximum = 88ms, Average = 84ms
